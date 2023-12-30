@@ -1,4 +1,5 @@
-Important: Run the SERVER code before running this CLIENT code. 
+Important: Run the SERVER code before running this CLIENT code.
+
 CLIENT CODE: https://github.com/RioSamson/Consumables_Tracker_SERVER.git
 
 This application Lets you add foods and drinks, with their expiration date. Updates the server to sync accross all devices.
