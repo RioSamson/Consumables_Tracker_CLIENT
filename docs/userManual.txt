@@ -1,0 +1,37 @@
+How to do Operations
+
+Note* the information comes from the server, so server must be running
+
+1:
+Once the program is running, to list all items, click on the "All" button at the top of the screen.
+Can scroll to see all items.
+
+2:
+To add a new Item to the program, click the "Add Item" button at the bottom of the screen.
+A pop up dialog should open. Enter in all the required fields correctly.
+Once done, click "Create" button at the bottom.
+The main page should show the new item in all.
+To cancel from the dialog, press the "Cancel" button at the bottom of the dialog screen.
+
+3:
+To remove an item, once in the main screen, click on "All" button at the top of the screen.
+From the list of foods, click the "Remove" button to the right of the item to remove it.
+
+4:
+To list all expired items, once at the main screen,
+click on the "Expired" button at the top of the screen.
+Can scroll to see all items.
+
+5:
+To list all non expired items, once at the main screen,
+click on the "Not Expired" button at the top of the screen.
+Can scroll to see all items.
+
+6:
+To list all items expiring in 7 days, once at the main screen,
+click on the "Expiring in 7 days" button at the top of the screen.
+Can scroll to see all items.
+
+7:
+To Exit, once at the main screen, click the "X" button in the top right
+corner of the window.
